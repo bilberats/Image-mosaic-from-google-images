@@ -7,7 +7,7 @@ import os
 def main():
     rootpath = os.getcwd()+"\\"
 
-    search = "livre d'enfant"
+    search = "art"
     folder_size = 100
 
     folder_path = dlimages(search,folder_size)
